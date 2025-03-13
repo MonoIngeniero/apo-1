@@ -36,17 +36,18 @@ public class pppp {
 
     public static int calcularTotalUnidades(int[] cantidades) {
         int total = 0;
-        for (int cantidad : cantidades) {
-            total += cantidad;
-        }
+        for (int i = 0; i < cantidades.length; i++) {
+            total += cantidades[i];
+         }
+
         return total;
     }
 
     public static double calcularPrecioPromedio(double[] precios) {
         double suma = 0;
-        for (double precio : precios) {
-            suma += precio;
-        }
+        for (int i = 0; i < precios.length; i++) {
+            suma += precios[i];
+    }
         return suma / precios.length;
     }
 
