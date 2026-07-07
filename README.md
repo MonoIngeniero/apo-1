@@ -48,8 +48,7 @@ El propósito de este repositorio es documentar mi proceso de aprendizaje en pro
 ---
 
 ## Autor
-
-Samuel Escobar
+Veronica flor escobar
 
 Estudiante de Ingeniería de Sistemas  
 Universidad Icesi
